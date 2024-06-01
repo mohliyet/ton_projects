@@ -1,0 +1,11 @@
+# Money 
+## Role of money
+Money plays several key roles in our economy and daily life. Firstly, it serves as a `medium of exchange`, facilitating the buying and selling of goods and services. Secondly, it acts as a `store of value`, allowing individuals to save and accumulate wealth. Lastly, it functions as a `unit of account`, providing a standard measure for pricing items and recording transactions.
+## Role of Finance
+Finance plays a crucial role in moving resources from areas of surplus to areas of need. It is instrumental in allocating resources and capital efficiently in an economy. Furthermore, finance is key in pricing assets based on their risk level and expected rate of return.
+## Financial sector issues with blockchain technology 
+The financial sector faces several issues with blockchain technology. These include performance, scalability, and efficiency, which are critical for high-speed financial transactions. Privacy and security are also major concerns, given the sensitive nature of financial data. Interoperability is another challenge, as it is necessary for different blockchain systems to communicate with each other. Lastly, governance issues arise due to the decentralized nature of blockchain technology.
+## Financial sector favors
+The financial sector tends to favor permissioned blockchains over permissionless ones. Permissioned blockchains have a known set of participants, do not require proof-of-work or mining, have no need for a native currency, and essentially function as distributed database technology. On the other hand, permissionless blockchains involve unknown participants, base their security on incentives, require a native currency, and operate on the principles of crypto-economics.
+## Worldwide Capital Market Size
+The worldwide capital market size is a measure of the total value of all financial securities. Global Equity Markets, valued at $80 trillion, represent the total market capitalization of all publicly traded stocks in the world. This includes shares of public companies listed on stock exchanges. Global Debt and Bond Markets, valued at $250 trillion, represent the total value of all debt securities. This includes government bonds, corporate bonds, and other types of debt instruments. Additionally, the global holdings of Gold are valued at $7 trillion.
