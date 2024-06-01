@@ -28,3 +28,21 @@ Good ledgers possess certain characteristics. They are immutable and consistent,
 Payment systems use ledgers as a method to record and amend changes for money transactions. This includes information related to deposits and negotiable orders such as timestamps, signatures, payee and payer details in the form of account numbers, and the transaction amount.
 
 Historically, ledgers have played a role in early forms of money. For instance, tally sticks in England were used as a form of ledger, with notches cut into them to record transactions. Similarly, Rai Stones in Yap served as a form of ledger, with the oral history of each stone serving as a record of transactions.
+
+## Fiat Currency, Central Banking, and Credit Cards
+
+### Fiat Currency
+Fiat currency is a type of money that is issued by the government and is not backed by a physical commodity like gold or silver. Its value is derived from the social and economic consensus. It is represented by central bank liabilities and commercial bank deposits and relies upon a system of ledgers integrated into the fractional banking system. Fiat currency is accepted for taxes, and its notes and coins are considered legal tender for all debts, both public and private. It also has a unique tax treatment, which differentiates it from other forms of wealth or assets.
+
+### Central Banking
+Central banks play a crucial role in the financial stability of a country. They regulate the nation's money supply, set interest rates, control inflation, print money, and act as a lender of last resort to commercial banks. Central banks are pivotal in the functioning of the economy and the stability of the nation's currency.
+
+### Credit Cards
+A credit card is a payment card issued by a financial institution, typically a bank, that allows cardholders to borrow funds with which to pay for goods and services. The borrowed money must be paid back with interest, often including additional charges. Credit cards are a powerful tool for consumers, allowing them to leverage future income to make purchases in the present.
+
+The term "credit card" was first used in Edward Bellamy's science fiction novel "Looking Backward" in 1887. The evolution of credit cards started with charge plates and credit coins in the late 1880s, which were used until the 1960s. Merchant credit cards appeared in the late 1920s and were used until the 2000s.
+
+The First National Bank of Brooklyn introduced the first bank card, "Charge-It," in 1946. The first general merchant card, Diners' Club, was introduced in 1949. American Express introduced the first plastic card in 1959, and Bank of America introduced the first general-purpose credit card in 1966.
+#### Credit Card Processing
+The technology for processing credit cards has evolved significantly over the years. In the 1950s, slide card imprinters were used to process credit card transactions. By 1979, Visa introduced imprinters, which were a more efficient way of processing transactions. In 2018, payment terminals became the standard method for processing credit card transactions, offering a quick and secure way for merchants to accept card payments.
+
