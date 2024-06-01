@@ -46,3 +46,28 @@ The First National Bank of Brooklyn introduced the first bank card, "Charge-It,"
 #### Credit Card Processing
 The technology for processing credit cards has evolved significantly over the years. In the 1950s, slide card imprinters were used to process credit card transactions. By 1979, Visa introduced imprinters, which were a more efficient way of processing transactions. In 2018, payment terminals became the standard method for processing credit card transactions, offering a quick and secure way for merchants to accept card payments.
 
+## Role and Characteristics of Money 
+
+### Role 
+Money serves several key roles in the economy:
+
+1. **Medium of Exchange**: It is used in the exchange of goods and services.
+2. **Store of Value**: It allows wealth to be stored and used in the future.
+3. **Unit of Account**: It provides a standard measure for pricing goods and services.
+
+### Characteristics
+For something to function effectively as money, it should have the following characteristics:
+
+1. **Durable**: It should withstand physical wear and tear.
+2. **Portable**: It should be easily transportable.
+3. **Divisible**: It should be divisible into smaller units.
+4. **Uniform / Fungible**: Each unit should be exactly the same as every other unit.
+5. **Acceptable**: Everyone should accept it for transactions.
+
+### Design of Money 
+When designing a form of money, several factors need to be considered:
+
+1. **Token Vs Account Based**: Token-based money is physical, like coins and banknotes. Account-based money is digital and exists as a record in a database.
+2. **Physical vs Digital**: Physical money is tangible, like coins and banknotes. Digital money exists electronically, like cryptocurrencies or digital wallets.
+3. **Private Sector vs Central Bank**: Money can be issued by the private sector (like banknotes in the past or cryptocurrencies today) or by a central bank (like modern-day coins and banknotes).
+4. **Widely Accessible vs Wholesale**: Some forms of money are widely accessible to the public (like cash or bank deposits), while others are only accessible to certain financial institutions (like central bank reserves).
