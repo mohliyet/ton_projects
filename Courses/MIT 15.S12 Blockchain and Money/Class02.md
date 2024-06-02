@@ -33,3 +33,13 @@ Bitcoin and its underlying blockchain technology have several key design feature
 - **Transaction inputs and outputs**: Used to specify the sender and receiver of transactions.
 - **Unspent transaction output (UTXO)**: A type of digital asset that can be created and consumed by transactions.
 - **Scripting language**: Used to specify the conditions under which a transaction output can be spent.
+
+## Cryptographic Hash Functions 
+
+Cryptography is the practice and study of techniques for secure communication in the presence of adversaries. Examples of cryptography include the Scytale Cipher from ancient times, the Enigma Machine used during World War II, and Asymmetric Cryptography, which has been in use since 1976.
+
+Hash functions, often referred to as "digital fingerprints for data", are a specific type of cryptographic tool. They have several key properties:
+
+- They map an input of any size to an output of a fixed size, known as a `hash`.
+- They are deterministic, meaning the same input will always produce the same hash.
+- They can be computed efficiently, which is important for performance in many cryptographic applications.
