@@ -98,3 +98,23 @@ When designing a form of money, several factors need to be considered:
 3. **Double Spending**: Double spending is a potential flaw in a digital cash scheme in which a single digital token can be spent more than once. This is possible because a digital token consists of a digital file that can be duplicated or falsified. Many early digital currencies did not have effective mechanisms in place to prevent double spending, leading to a lack of trust in the system.
 
 4. **Consensus**: Consensus refers to the agreement in the network about the state of the distributed ledger. In many early digital currencies, achieving consensus was a problem. Without consensus, it's impossible to agree on the order of transactions, which can lead to double spending and other issues.
+
+## Digital and Mobile Payments 
+
+A timeline of key developments in digital and mobile payments:
+
+- **PayPal (1998)**: One of the first online payment systems, allowing for money transfers to be made through the Internet.
+- **Ericsson (1999)**: Introduced mobile payments and banking services.
+- **Telenor (1999)**: Introduced mobile payments and banking services.
+- **Alipay (2003)**: A platform for making secure payments online, launched by Alibaba in China.
+- **Safaricom (2007)**: Launched M-Pesa, a mobile phone-based money transfer service, in Kenya.
+- **Starbucks Mobile App (2011)**: One of the first successful implementations of a mobile payment system by a retailer.
+- **Google Wallet (2011)**: A peer-to-peer payment service developed by Google that allows people to send and receive money from a mobile device or desktop computer.
+- **WeChat Pay (2013)**: A digital payment service integrated into the WeChat social media platform, widely used in China.
+- **Apple Pay (2014)**: A mobile payment and digital wallet service by Apple that lets users make payments using an iPhone, Apple Watch, or on the web.
+
+## The Riddle Remained 
+
+A key question in the field of digital payments:
+
+- **How to move value peer-to-peer without any trusted central intermediary?**: This question has driven the development of decentralized digital currencies like Bitcoin.
