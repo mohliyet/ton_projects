@@ -46,7 +46,7 @@ The First National Bank of Brooklyn introduced the first bank card, "Charge-It,"
 #### Credit Card Processing
 The technology for processing credit cards has evolved significantly over the years. In the 1950s, slide card imprinters were used to process credit card transactions. By 1979, Visa introduced imprinters, which were a more efficient way of processing transactions. In 2018, payment terminals became the standard method for processing credit card transactions, offering a quick and secure way for merchants to accept card payments.
 
-## Role and Characteristics of Money 
+## Role of Money 
 
 ### Role 
 Money serves several key roles in the economy:
@@ -71,7 +71,7 @@ When designing a form of money, several factors need to be considered:
 2. **Physical vs Digital**: Physical money is tangible, like coins and banknotes. Digital money exists electronically, like cryptocurrencies or digital wallets.
 3. **Private Sector vs Central Bank**: Money can be issued by the private sector (like banknotes in the past or cryptocurrencies today) or by a central bank (like modern-day coins and banknotes).
 4. **Widely Accessible vs Wholesale**: Some forms of money are widely accessible to the public (like cash or bank deposits), while others are only accessible to certain financial institutions (like central bank reserves).
-## Early Cryptographic Digital Currencies 
+## Early Cryptographic Digital Money 
 
 - **DigiCash (David Chaum) - 1989**: One of the earliest attempts at creating a digital currency, DigiCash was notable for its use of cryptography to ensure privacy.
 
