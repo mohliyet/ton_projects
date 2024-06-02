@@ -1,1 +1,35 @@
-# Blockchain Basics and Cryptocurrency 
+# Blockchain Basics and Cryptocurrency
+- [Bitcoin Design Features](#bitcoin-design-features)
+- [Cryptographic Hash Functions](#cryptographic-hash-functions)
+- [Timestamped Appended-only Logs](#timestamped-appended-only-logs)
+- [Block Headers and Merkle Trees](#block-headers-and-merkle-trees)
+- [Asymmetric Cryptography and Digital Signatures](#asymmetric-cryptography-and-digital-signatures)
+- [Bitcoin Address](#bitcoin-address)
+
+## Bitcoin Design Features
+
+Bitcoin and its underlying blockchain technology have several key design features:
+
+- **Blockchain technology**: A type of distributed ledger that maintains a list of records, called blocks, which are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data.
+
+- **Timestamped append-only log**: A record of events, where new data is appended to the end of the log and existing data is not modified. This ensures the integrity and immutability of the data.
+
+- **Auditable database secured by cryptography**: The blockchain is designed to be auditable, meaning that all transactions can be traced and verified. It is secured using cryptographic techniques, including hash functions for tamper resistance and integrity, and digital signatures for consent.
+
+- **Network consensus protocol**: A method used to achieve agreement on a single data value among distributed processes or systems. Bitcoin uses a consensus protocol to address the cost of trust and solve the Byzantine Generals problem.
+
+- **Permissioned and permissionless**: These terms refer to who can participate in the network. In a permissionless blockchain like Bitcoin, anyone can join the network, validate transactions, and create new blocks. In a permissioned blockchain, only authorized participants can do these things.
+
+### Bitcoin - Technical Features
+
+- **Cryptographic hash functions**: Used to ensure the integrity and security of data.
+- **Timestamped append-only logs (blocks)**: Used to maintain a secure and verifiable record of all transactions.
+- **Block headers and Merkle trees**: Used to structure the blockchain and efficiently verify transaction data.
+- **Asymmetric cryptography and digital signatures**: Used to verify the authenticity of transactions.
+- **Addresses**: Used to identify participants in transactions.
+- **Consensus through proof-of-work**: Used to secure the network and validate new blocks.
+- **Network nodes**: Used to maintain, secure, and operate the blockchain network.
+- **Native currency**: Bitcoin has its own native currency, with a finite limit of 17 million bitcoins.
+- **Transaction inputs and outputs**: Used to specify the sender and receiver of transactions.
+- **Unspent transaction output (UTXO)**: A type of digital asset that can be created and consumed by transactions.
+- **Scripting language**: Used to specify the conditions under which a transaction output can be spent.
