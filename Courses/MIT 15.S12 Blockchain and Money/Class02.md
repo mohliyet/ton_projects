@@ -72,3 +72,17 @@ Bitcoin uses hash functions in several ways:
 ## Timestamped Append-only Logs
 
 In the Bitcoin blockchain, a timestamped append-only log is used to record all transactions. This log is immutable, meaning that once data is added, it cannot be changed or removed. This ensures the integrity and security of the data.
+## Block Header and Merkle Trees
+
+Each block in the Bitcoin blockchain has a block header, which contains the following information:
+
+- **Version**: The version number of the block.
+- **Previous block hash**: A reference to the hash of the previous block in the blockchain. This links the blocks together in a chain.
+- **Merkle root hash**: The root hash of a Merkle tree of all transactions included in the block. This allows for efficient and secure verification of transactions.
+- **Timestamp**: The time when the block was created.
+- **Difficulty target**: A measure of how difficult it is to find a new block compared to the easiest it can ever be. It is recalculated every 2016 blocks.
+- **Nonce**: A random number that is used in Bitcoin's proof-of-work consensus algorithm. Miners change this value to try to find a hash for the new block that is below the difficulty target.
+
+### Merkle Trees
+
+A Merkle tree, also known as a binary hash tree, is a data structure used in computer science and cryptography. In the context of Bitcoin, it's used to efficiently summarize all the transactions in a block. The Merkle root is the hash of all the hashes of all the transactions in the block, and it's included in the block header. This allows anyone to verify a transaction without having to download the entire blockchain.
