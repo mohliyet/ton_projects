@@ -43,3 +43,28 @@ Hash functions, often referred to as "digital fingerprints for data", are a spec
 - They map an input of any size to an output of a fixed size, known as a `hash`.
 - They are deterministic, meaning the same input will always produce the same hash.
 - They can be computed efficiently, which is important for performance in many cryptographic applications.
+
+### Cryptographic Properties
+
+Hash functions have several key properties that make them useful for cryptography:
+
+- **Preimage resistant (one way)**: It's computationally infeasible to determine x from hash(x).
+- **Collision resistant**: It's computationally infeasible to find any two different inputs x and y where hash(x) = hash(y).
+- **Avalanche effect**: A small change to the input x results in a significant change in the hash(x).
+- **Puzzle friendliness**: Even if you know the hash(x) and part of x, it's still very hard to find the rest of x.
+
+### Uses of Hash Functions
+
+Hash functions have many uses in computer science and cryptography, including:
+
+- **Names**: Hashes can be used as unique identifiers for data.
+- **References**: Hashes can be used to verify the integrity of data.
+- **Pointers**: Hashes can be used to locate data in a data structure.
+- **Commitments**: Hashes can be used to commit to a specific value without revealing it.
+
+### Bitcoin Hash Functions
+
+Bitcoin uses hash functions in several ways:
+
+- **Headers and Merkle trees**: Bitcoin uses the SHA-256 hash function to create block headers and Merkle trees.
+- **Bitcoin addresses**: Bitcoin addresses are created using a combination of the SHA-256 and RIPEMD160 hash functions.
