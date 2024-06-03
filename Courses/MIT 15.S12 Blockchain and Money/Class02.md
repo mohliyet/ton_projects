@@ -86,3 +86,25 @@ Each block in the Bitcoin blockchain has a block header, which contains the foll
 ### Merkle Trees
 
 A Merkle tree, also known as a binary hash tree, is a data structure used in computer science and cryptography. In the context of Bitcoin, it's used to efficiently summarize all the transactions in a block. The Merkle root is the hash of all the hashes of all the transactions in the block, and it's included in the block header. This allows anyone to verify a transaction without having to download the entire blockchain.
+
+## Asymmetric Cryptography and Digital Signatures
+
+Digital signature algorithms involve several steps:
+
+- **Generate Key Pair**: A public key (pk) and private key (sk) are generated from a random number.
+- **Signature**: A digital signature (sig) is created from a message (m) and the private key (sk).
+- **Verification**: The validity of a signature (sig) is checked for a message (m) using the public key (pk).
+
+Digital signatures have several key properties:
+
+- It's computationally infeasible to find the private key (sk) from the public key (pk).
+- All valid signatures verify.
+- Signatures are computationally infeasible to forge.
+
+### Bitcoin Digital Signature Function
+
+Bitcoin uses the Elliptic Curve Digital Signature Algorithm (ECDSA) for its digital signatures. The equation y^2 = x^3 + 7 represents the elliptic curve used in Bitcoin's ECDSA.
+
+### Bitcoin Addresses
+
+Bitcoin addresses, which are derived from the public key, are used as the destination for Bitcoin transactions. (This topic needs more elaboration.)
