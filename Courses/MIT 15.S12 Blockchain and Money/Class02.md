@@ -69,10 +69,10 @@ Bitcoin uses hash functions in several ways:
 - **Headers and Merkle trees**: Bitcoin uses the SHA-256 hash function to create block headers and Merkle trees.
 - **Bitcoin addresses**: Bitcoin addresses are created using a combination of the SHA-256 and RIPEMD160 hash functions.
 
-## Timestamped Append-only Logs
+## Timestamped Appended-only Logs
 
 In the Bitcoin blockchain, a timestamped append-only log is used to record all transactions. This log is immutable, meaning that once data is added, it cannot be changed or removed. This ensures the integrity and security of the data.
-## Block Header and Merkle Trees
+## Block Headers and Merkle Trees
 
 Each block in the Bitcoin blockchain has a block header, which contains the following information:
 
