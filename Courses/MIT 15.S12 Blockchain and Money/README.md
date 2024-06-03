@@ -16,4 +16,6 @@ These notes are intended to help consolidate my learning and serve as a referenc
 
 This class provides an overview of the evolution of money, the concept of ledgers, and the emergence of Bitcoin. My notes for this class can be found in the [Class01.md](./Class01.md) file.
 
-Stay tuned for more notes as I progress through the course!
+### Class 02: Blockchain Basics and Cryptocurrency
+
+This class introduces the basics of blockchain technology and its application in cryptocurrencies like Bitcoin. My notes for this class can be found in the [Class02.md](./Class02.md) file.
