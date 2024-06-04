@@ -104,4 +104,27 @@ Ethereum, denoted as ETH, also has its own native currency and monetary policy.
 - There was a proposal in November 2018 to reduce the block reward to 2 ETH.
 - Transaction fees in Ethereum are paid in "gas." Each operation in a transaction requires a certain amount of gas, and the total gas cost is paid to the miner in ETH. As of 2018, 1 ETH was equivalent to 1 billion gas.
 
+## Network Participants in Blockchain
 
+In a blockchain network, there are several types of participants, each playing a unique role:
+
+### Full Nodes
+Full nodes are the most important players in the network. They store the entire blockchain and have the ability to validate all transactions. This means they keep a complete copy of the ledger, from the genesis block to the most recent one.
+
+### Pruning Nodes
+Pruning nodes also store the blockchain and validate transactions, but they prune (remove) old transactions that have been fully spent and are no longer needed. This helps to save storage space while still maintaining the integrity of the blockchain.
+
+### Lightweight Nodes (SPV Nodes)
+Simplified Payment Verification (SPV) nodes, also known as lightweight nodes, only store the headers of the blocks in the blockchain. They rely on full nodes to provide them with the rest of the block data when needed. This makes them more suitable for devices with limited storage capacity.
+
+### Miners
+Miners are participants who perform Proof-of-Work (PoW) to create new blocks. They do not necessarily need to be full nodes. Miners compete to solve a mathematical problem, and the first one to solve it gets to add the next block to the blockchain and receive the block reward.
+
+### Mining Pool Operators
+Mining pool operators manage mining pools, which are groups of miners who combine their computational resources to increase their chances of mining a block. The block reward is then shared among the pool members.
+
+### Wallets
+Wallets are software applications that allow users to store, view, send, and receive transactions. They also create key pairs, which are used for signing transactions and proving ownership of funds.
+
+### Mempool
+The mempool is a pool of unconfirmed but validated transactions waiting to be included in a block. Miners select transactions from the mempool to include in the new block they are trying to mine. 
