@@ -4,7 +4,7 @@
 - [Consensus Through Proof-of-Work](#consensus-through-proof-of-work)
 - [Bitcoin Mining](#bitcoin-mining)
 - [Native Currency and Economic Incentive Systems](#native-currency-and-economic-incentive-systems)
-- [Network](#network)
+- [Network Participants in Blockchain](#network-participants-in-blockchain)
 - [Other Consensus Protocols](#other-consensus-protocols)
 
 ## Bitcoin Technical Features Summary
@@ -117,6 +117,8 @@ Pruning nodes also store the blockchain and validate transactions, but they prun
 ### Lightweight Nodes (SPV Nodes)
 Simplified Payment Verification (SPV) nodes, also known as lightweight nodes, only store the headers of the blocks in the blockchain. They rely on full nodes to provide them with the rest of the block data when needed. This makes them more suitable for devices with limited storage capacity.
 
+## 
+
 ### Miners
 Miners are participants who perform Proof-of-Work (PoW) to create new blocks. They do not necessarily need to be full nodes. Miners compete to solve a mathematical problem, and the first one to solve it gets to add the next block to the blockchain and receive the block reward.
 
@@ -128,3 +130,29 @@ Wallets are software applications that allow users to store, view, send, and rec
 
 ### Mempool
 The mempool is a pool of unconfirmed but validated transactions waiting to be included in a block. Miners select transactions from the mempool to include in the new block they are trying to mine. 
+
+## Alternative Consensus Protocols
+
+Blockchain technology has evolved to include a variety of consensus protocols beyond Proof-of-Work (PoW). These alternative protocols often involve the randomized or delegated selection of nodes to validate the next block, with additional mechanisms to confirm the validators' work.
+
+### Randomized Selection Protocols
+
+Randomized selection may be based on several factors:
+
+- **Proof-of-Stake (PoS):** In PoS, the next block validator is chosen based on their stake in the native currency of the blockchain. The more currency a node holds, the higher the chance it has to be selected as the next block validator.
+
+- **Proof-of-Activity (PoA):** PoA is a hybrid of PoW and PoS. It combines mining (as in PoW) with a randomized selection process (as in PoS) to select the next block validator.
+
+- **Proof-of-Burn (PoB):** In PoB, nodes "burn" or permanently remove coins from circulation to get a chance to validate the next block. The idea is that by burning coins, nodes demonstrate their long-term commitment to the network.
+
+- **Proof-of-Capacity (PoC):** PoC is based on the amount of storage space a node has. The more storage space a node can offer to the network, the higher the chance it has to be selected as the next block validator.
+
+### Delegated Selection Protocols
+
+Delegated selection may be based on a tiered system of nodes. In these systems, certain nodes have more authority or responsibility than others.
+
+- **DASH:** DASH uses a hybrid consensus protocol that combines PoW with a tiered system of "masternodes." Masternodes are powerful nodes that perform special functions in the network and are rewarded for their work.
+
+- **NEO:** NEO uses a delegated protocol of "professional nodes." These nodes are trusted entities in the network that have been delegated the responsibility of validating blocks.
+
+Despite these alternatives, many major permissionless blockchain applications still use PoW due to its proven security and decentralization properties.
