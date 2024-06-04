@@ -1,5 +1,6 @@
 # Class 03: Blockchain Basics and Consensus
-- [Bitcoin Technical Features](bitcoin-technical-features)
+- [Bitcoin Technical Features](#bitcoin-technical-features)
+- [Decentralized Networks](#decentralized-networks)
 - [Consensus Through Proof-of-Work](#consensus-through-proof-of-work)
 - [Bitcoin Mining](#bitcoin-mining)
 - [Native Currency](#native-currency)
@@ -36,5 +37,29 @@ Blockchain is a type of decentralized network that is permissionless, meaning an
 
 ### Hashcash and Proof-of-Work
 In 1997, Adam Back proposed a system called Hashcash to address email spam and denial of service attacks. Hashcash introduced the concept of proof-of-work, which requires computational work to find a hash within a predetermined range. The difficulty of this task is defined by the number of leading zeros in the hash output. Despite the computational effort required to find a valid hash, the proof-of-work can be efficiently verified by other participants in the network.
+## Consensus Through Proof-of-Work
+Proof-of-Work (PoW) is a consensus algorithm used in blockchain technology. It requires network participants (miners) to perform a certain amount of computational work to add new blocks to the blockchain.
 
-## Consensus Through Proof-f-Work
+### Innovation - Chained PoW for Distributed Network Consensus and Timestamping
+The use of PoW in blockchain is innovative because it allows for consensus and timestamping in a distributed network. Each block contains a timestamp and a link to the previous block, forming a chronological chain.
+
+### Blockchain - Consensus Supports Longest Chain
+In blockchain networks, the longest chain (i.e., the chain with the most proof-of-work) is considered the valid one. This rule helps to maintain consensus across the decentralized network.
+
+### Stale Blocks
+Stale blocks are blocks that were successfully mined but not included on the blockchain, often because another block at the same height was added first.
+
+### Difference Between Bitcoin and Bitcoin Cash
+Bitcoin and Bitcoin Cash are two different cryptocurrencies. Bitcoin Cash was created from a hard fork of Bitcoin in 2017 to increase the block size limit, allowing for more transactions to be processed per block.
+
+### PoW Difficulty
+The difficulty level in PoW adjusts approximately every two weeks (or every 2016 blocks) to maintain an average block generation time of 10 minutes. The difficulty is defined by the number of leading zeros required in the hash output. Currently, the hash output requires at least 19 leading zeros out of 64 hexadecimal characters.
+
+### Recent Block
+A recent block in the Bitcoin blockchain at height 846485 has the following hash: 0000000000000000000155d0146c733fffc9d6e33d88779e2832a0e836b75666.
+
+### The Genesis Block
+The first block in the Bitcoin blockchain (the "genesis block") has a hash that starts with a certain number of leading zeros. The exact number of leading zeros and the full hash can be found in the Bitcoin blockchain records.
+
+### Difficulty Level Over Time
+The difficulty level in PoW has changed significantly since 2009. In 2009, the difficulty level was 1. As of now, the difficulty level is much higher due to the increased computational power of the network. The exact current difficulty level can be found on various Bitcoin blockchain explorers.
