@@ -59,7 +59,7 @@ The difficulty level in PoW adjusts approximately every two weeks (or every 2016
 A recent block in the Bitcoin blockchain at height 846485 has the following hash: 0000000000000000000155d0146c733fffc9d6e33d88779e2832a0e836b75666.
 
 ### The Genesis Block
-The first block in the Bitcoin blockchain (the "genesis block") has a hash that starts with a certain number of leading zeros. The exact number of leading zeros and the full hash can be found in the Bitcoin blockchain records.
+The inaugural block of the Bitcoin blockchain, known as the "Genesis Block," possesses a unique hash: 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f. This hash begins with a specific number of leading zeros, a characteristic that can be verified within the Bitcoin blockchain records. The Genesis Block holds a significant place in Bitcoin's history, marking the start of the decentralized cryptocurrency.
 
 ### Difficulty Level Over Time
 The difficulty level in PoW has changed significantly since 2009. In 2009, the difficulty level was 1. As of now, the difficulty level is much higher due to the increased computational power of the network. The exact current difficulty level can be found on various Bitcoin blockchain explorers.
