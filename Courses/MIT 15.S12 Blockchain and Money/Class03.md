@@ -7,7 +7,7 @@
 - [Network Participants in Blockchain](#network-participants-in-blockchain)
 - [Other Consensus Protocols](#other-consensus-protocols)
 
-## Bitcoin Technical Features Summary
+## Bitcoin Technical Features
 
 ### Cryptographic and Timestamped Logs
 - Utilizes cryptographic hash functions for security. These functions transform input data into a fixed-size string of characters, which is a "digest" that is unique to each unique input.
@@ -64,7 +64,7 @@ The inaugural block of the Bitcoin blockchain, known as the "Genesis Block," pos
 ### Difficulty Level Over Time
 The difficulty level in PoW has changed significantly since 2009. In 2009, the difficulty level was 1. As of now, the difficulty level is much higher due to the increased computational power of the network. The exact current difficulty level can be found on various Bitcoin blockchain explorers.
 
-## Evolution of Bitcoin Mining
+## Bitcoin Mining
 
 Bitcoin mining has evolved significantly since its inception, with advancements in technology leading to increased hashing power.
 
@@ -131,7 +131,7 @@ Wallets are software applications that allow users to store, view, send, and rec
 ### Mempool
 The mempool is a pool of unconfirmed but validated transactions waiting to be included in a block. Miners select transactions from the mempool to include in the new block they are trying to mine. 
 
-## Alternative Consensus Protocols
+## Other Consensus Protocols
 
 Blockchain technology has evolved to include a variety of consensus protocols beyond Proof-of-Work (PoW). These alternative protocols often involve the randomized or delegated selection of nodes to validate the next block, with additional mechanisms to confirm the validators' work.
 
