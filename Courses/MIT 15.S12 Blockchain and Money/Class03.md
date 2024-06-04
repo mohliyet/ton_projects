@@ -56,10 +56,29 @@ Bitcoin and Bitcoin Cash are two different cryptocurrencies. Bitcoin Cash was cr
 The difficulty level in PoW adjusts approximately every two weeks (or every 2016 blocks) to maintain an average block generation time of 10 minutes. The difficulty is defined by the number of leading zeros required in the hash output. Currently, the hash output requires at least 19 leading zeros out of 64 hexadecimal characters.
 
 ### Recent Block
-A recent block in the Bitcoin blockchain at height 846485 has the following hash: 0000000000000000000155d0146c733fffc9d6e33d88779e2832a0e836b75666.
+A recent block in the Bitcoin blockchain at height 846485 has the following hash: `0000000000000000000155d0146c733fffc9d6e33d88779e2832a0e836b75666`.
 
 ### The Genesis Block
-The inaugural block of the Bitcoin blockchain, known as the "Genesis Block," possesses a unique hash: 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f. This hash begins with a specific number of leading zeros, a characteristic that can be verified within the Bitcoin blockchain records. The Genesis Block holds a significant place in Bitcoin's history, marking the start of the decentralized cryptocurrency.
+The inaugural block of the Bitcoin blockchain, known as the "Genesis Block," possesses a unique hash:` 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f`. This hash begins with a specific number of leading zeros, a characteristic that can be verified within the Bitcoin blockchain records. The Genesis Block holds a significant place in Bitcoin's history, marking the start of the decentralized cryptocurrency.
 
 ### Difficulty Level Over Time
 The difficulty level in PoW has changed significantly since 2009. In 2009, the difficulty level was 1. As of now, the difficulty level is much higher due to the increased computational power of the network. The exact current difficulty level can be found on various Bitcoin blockchain explorers.
+
+## Evolution of Bitcoin Mining
+
+Bitcoin mining has evolved significantly since its inception, with advancements in technology leading to increased hashing power.
+
+### CPUs (2009 - 2010)
+In the early days of Bitcoin, from 2009 to 2010, mining was primarily done using Central Processing Units (CPUs). These could perform between 2 to 20 million hashes per second (MH/s).
+
+### GPUs (2010 - 2013)
+As the network grew, miners started using Graphics Processing Units (GPUs) to increase their hashing power. From 2010 to 2013, a GPU could perform between 20 to 300 million hashes per second (MH/s).
+
+### ASICs (2013 - 2018)
+The introduction of Application Specific Integrated Circuits (ASICs) in 2013 marked a significant leap in mining technology. ASICs are hardware systems specifically designed for mining cryptocurrencies. They are much more efficient than CPUs and GPUs. From 2013 to 2018, an ASIC could perform between 4 to 16 tera hashes per second.
+
+### Modern Mining Factories
+Today, large-scale mining operations use thousands of ASICs to mine Bitcoin. These modern mining factories have enormous computational power and contribute significantly to the total hashing power of the Bitcoin network.
+
+### Bitcoin Mining Hashrate Distribution
+The distribution of Bitcoin's hashrate is an important aspect of the network's security. If too much hashing power is controlled by one entity, the network can become vulnerable to a 51% attack. To prevent this, miners often join mining pools, where they combine their hashing power and share the rewards. This leads to a more decentralized distribution of hashing power. The operators of these mining pools play a crucial role in maintaining the balance of power in the Bitcoin network.
