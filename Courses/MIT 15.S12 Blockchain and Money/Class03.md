@@ -3,7 +3,7 @@
 - [Decentralized Networks](#decentralized-networks)
 - [Consensus Through Proof-of-Work](#consensus-through-proof-of-work)
 - [Bitcoin Mining](#bitcoin-mining)
-- [Native Currency](#native-currency)
+- [Native Currency and Economic Incentive Systems](#native-currency-and-economic-incentive-systems)
 - [Network](#network)
 - [Other Consensus Protocols](#other-consensus-protocols)
 
@@ -82,3 +82,26 @@ Today, large-scale mining operations use thousands of ASICs to mine Bitcoin. The
 
 ### Bitcoin Mining Hashrate Distribution
 The distribution of Bitcoin's hashrate is an important aspect of the network's security. If too much hashing power is controlled by one entity, the network can become vulnerable to a 51% attack. To prevent this, miners often join mining pools, where they combine their hashing power and share the rewards. This leads to a more decentralized distribution of hashing power. The operators of these mining pools play a crucial role in maintaining the balance of power in the Bitcoin network.
+
+## Native Currency and Economic Incentive Systems
+
+Different blockchain networks have their own native currencies and economic incentive systems. The monetary policies of these networks can vary widely.
+
+### Bitcoin (BTC)
+Bitcoin, denoted as BTC, is created through a process known as mining. Each block mined adds new bitcoins to the network through a coinbase transaction. 
+
+- The monetary policy of Bitcoin is encoded in the Bitcoin Core software. 
+- Initially, the reward for mining a block was 50 bitcoins. 
+- This reward halves approximately every four years (or every 210,000 blocks). This event is known as a "halving."
+- In 2018, the block reward was 12.5 bitcoins, resulting in an inflation rate of approximately 4.1%.
+- As of 2018, there were 17.3 million bitcoins in circulation. The total supply of bitcoins is capped at 21 million, which is expected to be reached around the year 2040.
+- Bitcoin also has a market-based transaction fee mechanism. Miners can choose which transactions to include in a block based on the transaction fees offered.
+
+### Ethereum (ETH)
+Ethereum, denoted as ETH, also has its own native currency and monetary policy.
+
+- In 2018, the reward for mining a block was 3 ETH, resulting in an inflation rate of approximately 7.4%.
+- There was a proposal in November 2018 to reduce the block reward to 2 ETH.
+- Transaction fees in Ethereum are paid in "gas." Each operation in a transaction requires a certain amount of gas, and the total gas cost is paid to the miner in ETH. As of 2018, 1 ETH was equivalent to 1 billion gas.
+
+
