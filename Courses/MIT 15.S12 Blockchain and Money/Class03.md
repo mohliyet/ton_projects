@@ -11,7 +11,7 @@
 ### Cryptographic and Timestamped Logs
 - Utilizes cryptographic hash functions for security. These functions transform input data into a fixed-size string of characters, which is a "digest" that is unique to each unique input.
 - Employs timestamped append-only logs (blocks) for data integrity. Each block contains a timestamp and a link to the previous block, forming a chronological chain.
-- Uses block headers and Merkle trees for efficient data verification. Block headers contain metadata about the block, and Merkle trees allow for efficient and secure verification of large data structures.
+- Uses block headers and Merkle trees for efficient data verification. Block heclearaders contain metadata about the block, and Merkle trees allow for efficient and secure verification of large data structures.
 - Applies asymmetric cryptography and digital signatures for transaction validation. This ensures that only the owner of a Bitcoin address can spend the bitcoins associated with it.
 - Bitcoin addresses are used for transaction destinations. These addresses are derived from the public key of a public-private key pair.
 
@@ -24,4 +24,17 @@
 - Transactions are composed of inputs and outputs. Inputs refer to the source of the bitcoins, and outputs refer to the destination.
 - The Unspent Transaction Output (UTXO) set tracks spendable Bitcoins. Only the outputs of confirmed transactions that have not been spent can be included in the UTXO set.
 - A scripting language is used to specify transaction conditions. This allows for a variety of transaction types, including multi-signature transactions and time-locked transactions.
-<!-- # Consensus Through Proof-f-Work -->
+
+Digital signatures guarding against tampering and impersonation.
+## Decentralized Networks
+
+### Byzantine Generals Problem
+The Byzantine Generals Problem is a situation in distributed computing where components of a system must agree on a strategy to avoid catastrophic system failure, but some components may fail and give incorrect information. In the context of blockchain, this problem is analogous to nodes in the network deciding whether to validate a transaction (attack) or not (retreat).
+
+### Blockchain
+Blockchain is a type of decentralized network that is permissionless, meaning anyone can join and participate in the network. The security of a blockchain network is based on its consensus protocol and the use of a native currency.
+
+### Hashcash and Proof-of-Work
+In 1997, Adam Back proposed a system called Hashcash to address email spam and denial of service attacks. Hashcash introduced the concept of proof-of-work, which requires computational work to find a hash within a predetermined range. The difficulty of this task is defined by the number of leading zeros in the hash output. Despite the computational effort required to find a valid hash, the proof-of-work can be efficiently verified by other participants in the network.
+
+## Consensus Through Proof-f-Work
