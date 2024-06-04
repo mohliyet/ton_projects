@@ -19,3 +19,7 @@ This class provides an overview of the evolution of money, the concept of ledger
 ### Class 02: Blockchain Basics and Cryptocurrency
 
 This class introduces the basics of blockchain technology and its application in cryptocurrencies like Bitcoin. My notes for this class can be found in the [Class02.md](./Class02.md) file.
+
+### Class 03: Blockchain Basics and Consensus
+
+This class delves into the fundamental concepts of blockchain technology, including Bitcoin's technical features, decentralized networks, consensus through Proof-of-Work, Bitcoin mining, native currency and economic incentive systems, network participants in blockchain, and other consensus protocols. My notes for this class can be found in the [Class03.md](./Class03.md) file.
