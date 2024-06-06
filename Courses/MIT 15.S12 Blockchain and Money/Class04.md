@@ -11,6 +11,8 @@ Bitcoin transactions consist of inputs and outputs. Here's a more detailed expla
 
 - **Transaction Format:** Every Bitcoin transaction has a specific format that includes inputs and outputs.
 
+- **Coinbase:** The term "coinbase" refers to the first transaction in a block, also known as a coinbase transaction. This transaction is created by miners and includes the block reward (newly minted bitcoins) and any transaction fees from the transactions included in the block.
+
 - **Inputs:** Each input refers to a previous transaction's output. It includes the previous transaction's ID, an index, and a signature. The signature is generated using the private key associated with the previous transaction's output.
 
 - **Outputs:** Each output includes a value (the amount of Bitcoin being transferred) and a public key, which is the Bitcoin address of the recipient.
@@ -26,6 +28,10 @@ Bitcoin transactions consist of inputs and outputs. Here's a more detailed expla
 - **Block Reward Halving:** The block reward halves approximately every 210,000 blocks, which is roughly every four years. As of 2018, the block reward is 12.5 bitcoins. It started at 50 bitcoins per block when Bitcoin was first launched.
 
 - **100 Block Maturity Rule:** The bitcoins earned from a coinbase transaction cannot be spent until 100 more blocks have been added to the blockchain. This is to ensure the stability of the block containing the coinbase transaction.
+
+- **Merkle Tree:** The coinbase transaction is recorded as the first transaction in the Merkle Tree, a data structure used to efficiently summarize all the transactions in a block.
+
+- **Arbitrary Data:** The coinbase transaction may include up to 100 bytes of arbitrary data. This is often used for additional nonce values or to include messages. For example, the genesis block included a headline from The Times: `The Times 03/Jan/2009 Chancellor on brink of second bailout for banks`.
 ## Bitcoin Script 
 
 Bitcoin Script is the programming language used within the Bitcoin protocol to process transactions. Here are some key points about Bitcoin Script:
