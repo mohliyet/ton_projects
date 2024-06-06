@@ -4,6 +4,28 @@
 - [Scripting Language](#scripting-language)
 - [Blockchain Design - Putting it All Together](#blockchain-design-putting-it-all-together)
 - [Bitcoin's Academic Pedigree](#bitcoins-academic-pedigree)
+
+## Transaction Inputs and Outputs
+
+Bitcoin transactions consist of inputs and outputs. Here's a more detailed explanation:
+
+- **Transaction Format:** Every Bitcoin transaction has a specific format that includes inputs and outputs.
+
+- **Inputs:** Each input refers to a previous transaction's output. It includes the previous transaction's ID, an index, and a signature. The signature is generated using the private key associated with the previous transaction's output.
+
+- **Outputs:** Each output includes a value (the amount of Bitcoin being transferred) and a public key, which is the Bitcoin address of the recipient.
+
+- **Lock Time:** This is a parameter that can be set to indicate the earliest time or earliest block when the transaction can be added to the blockchain. If the lock time is not set (or set to zero), the transaction can be added to any block.
+
+- **Turing Complete:** This term refers to a system capable of performing any computational task given enough resources. Bitcoin Script, the language used to write the conditions for spending bitcoins, is not Turing complete. It lacks certain features like loops, which is a design choice to avoid potential issues with infinite loops during transaction verification.
+
+- **Multiple Inputs and Outputs:** A single Bitcoin transaction can have multiple inputs and outputs. This allows for more complex transactions, such as those involving multiple senders or recipients.
+
+- **Coinbase Transaction:** This is a special type of transaction that's included in each new block. It's the transaction that rewards the miner for solving the proof-of-work puzzle. The input of a coinbase transaction is the block reward.
+
+- **Block Reward Halving:** The block reward halves approximately every 210,000 blocks, which is roughly every four years. As of 2018, the block reward is 12.5 bitcoins. It started at 50 bitcoins per block when Bitcoin was first launched.
+
+- **100 Block Maturity Rule:** The bitcoins earned from a coinbase transaction cannot be spent until 100 more blocks have been added to the blockchain. This is to ensure the stability of the block containing the coinbase transaction.
 ## Bitcoin Script 
 
 Bitcoin Script is the programming language used within the Bitcoin protocol to process transactions. Here are some key points about Bitcoin Script:
