@@ -1,5 +1,9 @@
 # Blockchain Basics and Transactions, UTXO and Script Code
-- 
+- [Transaction Inputs and Outputs](#transaction-inputs-and-outputs)
+- [Unspent Transactions Output (UTXO)](#unspent-transactions-output-utxo)
+- [Scripting Language](#scripting-language)
+- [Blockchain Design - Putting it All Together](#blockchain-design-putting-it-all-together)
+- [Bitcoin's Academic Pedigree](#bitcoins-academic-pedigree)
 ## Bitcoin Script 
 
 Bitcoin Script is the programming language used within the Bitcoin protocol to process transactions. Here are some key points about Bitcoin Script:
