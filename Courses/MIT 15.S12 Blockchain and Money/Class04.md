@@ -32,6 +32,24 @@ Bitcoin transactions consist of inputs and outputs. Here's a more detailed expla
 - **Merkle Tree:** The coinbase transaction is recorded as the first transaction in the Merkle Tree, a data structure used to efficiently summarize all the transactions in a block.
 
 - **Arbitrary Data:** The coinbase transaction may include up to 100 bytes of arbitrary data. This is often used for additional nonce values or to include messages. For example, the genesis block included a headline from The Times: `The Times 03/Jan/2009 Chancellor on brink of second bailout for banks`.
+
+## Unspent Transaction Output (UTXO)
+
+The Unspent Transaction Output (UTXO) model is a fundamental concept in Bitcoin's transaction management. Here's a more detailed explanation:
+
+- **Definition:** UTXOs are the outputs of previous transactions that have not yet been spent. They are the "inputs" for new transactions.
+
+- **UTXO Set:** The UTXO set contains all currently unspent transaction outputs. This set is crucial for validating new transactions. When a new transaction is made, it uses UTXOs as inputs, and these UTXOs are removed from the UTXO set.
+
+- **Efficiency:** The UTXO model speeds up the transaction validation process. Instead of scanning the entire blockchain to find unspent outputs, one can simply check the UTXO set. This makes the transaction validation process more efficient.
+
+- **Storage:** In Bitcoin Core, the UTXO set is stored using a LevelDB database called `chainstate`. This database is updated every time a block is added to the blockchain. It removes the UTXOs that were spent (used as inputs) in the transactions included in the block, and adds the outputs of these transactions as new UTXOs.
+
+- **UTXO and Wallets:** Bitcoin wallets manage the UTXOs owned by their respective private keys. When you send bitcoins, your wallet selects UTXOs as inputs to create the transaction. The selection strategy can vary (e.g., some wallets select UTXOs to minimize transaction fees).
+
+- **Change Addresses:** If the value of the UTXOs used as inputs exceeds the amount being sent in a transaction, the excess amount is sent back to the sender as "change" via a change address. This is similar to receiving change in a cash transaction. The change output becomes a new UTXO and can be used in future transactions.
+
+
 ## Bitcoin Script 
 
 Bitcoin Script is the programming language used within the Bitcoin protocol to process transactions. Here are some key points about Bitcoin Script:
