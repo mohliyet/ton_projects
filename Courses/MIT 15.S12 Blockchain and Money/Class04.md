@@ -69,3 +69,4 @@ Bitcoin transactions typically involve Unspent Transaction Outputs (UTXOs). Each
 3. **M of N Multisig:** This type of transaction makes up 0.7% of all transactions. In a multisig transaction, the bitcoins can be spent if M out of N possible signatures are provided. This is often used for escrow or shared wallet services.
 
 4. **Pay-to-Pubkey (P2PK):** This type of transaction makes up 0.1% of all transactions. In a P2PK transaction, the bitcoins are sent directly to a public key. The recipient can spend the bitcoins by providing a signature that corresponds to the public key.
+
