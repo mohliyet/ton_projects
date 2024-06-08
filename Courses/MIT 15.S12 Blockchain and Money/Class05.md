@@ -41,15 +41,20 @@ However, it's important to note that despite their name, smart contracts may not
 | Script language for transactions | Bitcoin Script | Solidity, Vyper, and others |
 
 ## BTC vs ETH
-- Founder: Satoshi Nakamoto - Vatalik Buterin 
-- Genesis: January 2009 - July 2015
-- Code: Non Turing (script) - Turing Complete (Solidity, Serpent, LLL,or Mutan)
-- Ledger: UTXO-transaction - state-account based
- Merkle Trees: Transaction - Transactions, state, storage, receipts (w/nonces)
- - blocktime: 10min - 14 min
- - consensus: pow - pow 
- - hash function: sha 256 - ethash
- - currency: btc - eth 
- - mining: asic - gpu
- - hashrate: 54 exahash/s - 260 terahash/s
- - pre-sale: none - ico and prerelease of 72m eth
+| Feature | Bitcoin (BTC) | Ethereum (ETH) |
+| --- | --- | --- |
+| Founder | Satoshi Nakamoto (Pseudonymous person or group) | Vitalik Buterin |
+| Genesis (Launch Date) | January 2009 | July 2015 |
+| Code | Non Turing (script) - Limited scripting language | Turing Complete (Solidity, Serpent, LLL, Mutan) - Supports complex programming |
+| Ledger | UTXO-transaction - Uses Unspent Transaction Output model | State-account based - Uses an account model where the state (balance) of all accounts is stored |
+| Merkle Trees | Transaction - Uses a single Merkle tree for transactions | Transactions, state, storage, receipts (w/nonces) - Uses multiple Merkle trees |
+| Blocktime | 10 min - Average time to mine a block | Approximately 14 sec - Faster block times |
+| Consensus | PoW (Proof of Work) - Miners solve complex mathematical problems | PoW (Proof of Work) - Transitioning to PoS (Proof of Stake) |
+| Hash Function | SHA-256 - A cryptographic hash function | Ethash - A cryptographic hash function designed for Ethereum |
+| Currency | BTC | ETH |
+| Mining | ASIC (Application-Specific Integrated Circuit) - Specialized hardware | GPU (Graphics Processing Unit) - General purpose hardware |
+| Hashrate | 54 exahash/s - Measure of computational power | 260 terahash/s - Measure of computational power |
+| Pre-sale | None | ICO and pre-release of 72M ETH - Initial Coin Offering and pre-release of Ether |
+| Rewards | 12.5 BTC/block - Reward for mining a block | 2 ETH/block (is the value still the same) - Reward for mining a block |
+| Monetary Policy | Halves every 210,000 blocks (approximately every 4 years) - Decreasing supply over time | Fixed, but changes by updates (was 5/block: proposal to 2) - Supply determined by network updates |
+| Fees | Voluntary - Transaction fees are optional but incentivize faster confirmation | Needed and market based - Transaction fees (gas) are required and vary based on network congestion |
