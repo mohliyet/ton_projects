@@ -78,6 +78,6 @@ To prepare for the next class, please review the following materials. These read
 
 2. **State of the DApps: 5 Observations from Usage Data:** This article by McCann analyzes usage data from decentralized applications (DApps) to draw insights about their performance, user behavior, and trends in the DApp market.
 
-3. **Ethereum Competitors: Guide to the Alternative Smart Contract Platforms:** This guide by Blockonomi provides an overview of blockchain platforms other than Ethereum that support smart contracts. It compares their features, advantages, and disadvantages to help readers understand the landscape of smart contract platforms.
+3. **Ethereum Competitors: Guide to the Alternative Smart Contract Platforms:** This guide by Blockonomi provides an overview of blockchain platforms other than Ethereum that support smart contracts. It compares their features, advantages, and disadvantages to help readers understand the landscape of smart contract platforms..
 
 Please ensure you understand the key points from these materials before the next class, as they will form the basis of our discussion.
