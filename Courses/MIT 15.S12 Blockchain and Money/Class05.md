@@ -28,15 +28,28 @@ However, it's important to note that despite their name, smart contracts may not
 ## Technical Features
 | Technical Features | Bitcoin (BTC) | Ethereum (ETH) |
 | --- | --- | --- |
-| Cryptographic hash functions | Yes | Yes |
+| Cryptographic hash functions | Uses SHA-256 | Uses Keccak-256 |
 | Timestamped append-only logs (blocks) | Yes | Yes |
-| Block headers and Merkle trees | Yes | Yes (more than one) |
-| Asymmetric cryptography and digital signatures | Yes | Yes |
-| Addresses | Yes | Yes |
-| Decentralized Network Consensus | Yes | Yes |
-| Proof of Work/Proof of Stake (needs more elaboration) | Yes | Yes |
-| Native currency | Yes | Yes |
-| Network | Yes | Yes |
-| Transaction inputs and outputs | Yes | No (uses state transitions) |
-| Unspent Transaction Output (UTXO) set | Yes | No (uses account-based model) |
-| Script language for transactions | Yes | Yes (supports 7 languages) |
+| Block headers and Merkle trees | Single Merkle tree | Multiple Merkle trees (state, transactions, receipts) |
+| Asymmetric cryptography and digital signatures | Uses ECDSA | Uses ECDSA and ED25519 |
+| Addresses | Base58Check encoding | Hexadecimal (derived from the public key) |
+| Decentralized Network Consensus | Proof of Work | Currently Proof of Work, transitioning to Proof of Stake |
+| Native currency | Bitcoin (BTC) | Ether (ETH) |
+| Network | Peer-to-peer | Peer-to-peer |
+| Transaction inputs and outputs | Uses UTXO model | Uses account-based model |
+| Unspent Transaction Output (UTXO) set | Yes | No |
+| Script language for transactions | Bitcoin Script | Solidity, Vyper, and others |
+
+## BTC vs ETH
+- Founder: Satoshi Nakamoto - Vatalik Buterin 
+- Genesis: January 2009 - July 2015
+- Code: Non Turing (script) - Turing Complete (Solidity, Serpent, LLL,or Mutan)
+- Ledger: UTXO-transaction - state-account based
+ Merkle Trees: Transaction - Transactions, state, storage, receipts (w/nonces)
+ - blocktime: 10min - 14 min
+ - consensus: pow - pow 
+ - hash function: sha 256 - ethash
+ - currency: btc - eth 
+ - mining: asic - gpu
+ - hashrate: 54 exahash/s - 260 terahash/s
+ - pre-sale: none - ico and prerelease of 72m eth
