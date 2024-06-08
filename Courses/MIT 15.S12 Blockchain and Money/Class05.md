@@ -24,3 +24,19 @@ This definition can be broken down as follows:
 - **Within which the parties perform on these promises:** The parties to a smart contract fulfill their promises within the framework provided by the contract. The contract not only specifies the promises, but also enforces them.
 
 However, it's important to note that despite their name, smart contracts may not always be "smart" or even legally recognized as contracts. The term "smart" refers to the automation of the contract, but the contract itself is only as good as the code it's written in. If the code is flawed, the contract could behave in unexpected ways. Furthermore, whether a smart contract is legally recognized as a contract can depend on the jurisdiction and the specific circumstances.
+
+## Technical Features
+| Technical Features | Bitcoin (BTC) | Ethereum (ETH) |
+| --- | --- | --- |
+| Cryptographic hash functions | Yes | Yes |
+| Timestamped append-only logs (blocks) | Yes | Yes |
+| Block headers and Merkle trees | Yes | Yes (more than one) |
+| Asymmetric cryptography and digital signatures | Yes | Yes |
+| Addresses | Yes | Yes |
+| Decentralized Network Consensus | Yes | Yes |
+| Proof of Work/Proof of Stake (needs more elaboration) | Yes | Yes |
+| Native currency | Yes | Yes |
+| Network | Yes | Yes |
+| Transaction inputs and outputs | Yes | No (uses state transitions) |
+| Unspent Transaction Output (UTXO) set | Yes | No (uses account-based model) |
+| Script language for transactions | Yes | Yes (supports 7 languages) |
