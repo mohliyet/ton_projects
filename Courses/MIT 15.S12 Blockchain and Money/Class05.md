@@ -88,3 +88,21 @@ Smart contracts have a wide range of potential applications across various indus
 - **Supply Chain & Auto Insurance**: In the supply chain industry, smart contracts can be used to track goods as they move through the supply chain, providing a transparent and immutable record of their journey. This technology can also be applied to auto insurance, automating claims processing and reducing fraud.
 
 - **Clinical Trials & Cancer Research**: In the healthcare industry, smart contracts can be used to manage clinical trials, ensuring that data is recorded accurately and transparently. This technology can also be used in cancer research, helping to manage and analyze large amounts of data.
+
+## Decentralized Applications (DApps)
+
+Decentralized Applications, also known as DApps, are applications that run on a decentralized blockchain network. Unlike traditional applications, which run on centralized servers, DApps leverage the power of blockchain technology to create a decentralized, secure, and transparent environment for executing code and processing transactions.
+
+Key characteristics of DApps include:
+
+- **Decentralization**: DApps run on a peer-to-peer network of computers rather than a single computer or server. This ensures that no single entity has control over the application, enhancing security and reliability.
+
+- **Native Tokens**: DApps generally have a native token or cryptocurrency that is used for transactions within the application. These tokens can serve various purposes, such as incentivizing user participation or compensating network participants for their work.
+
+- **Smart Contracts**: DApps typically run as a smart contract on top of a blockchain platform. A smart contract is a self-executing contract with the terms of the agreement directly written into code. This allows for automated, trustless transactions and eliminates the need for intermediaries.
+
+- **Open Source**: Most DApps are open source, meaning their source code is publicly accessible. This promotes transparency and allows anyone to review, use, or modify the code.
+
+- **Immutable**: Once data is recorded on the blockchain, it cannot be altered or deleted. This immutability provides a trustworthy and tamper-proof record of transactions.
+
+- **Consensus Mechanisms**: DApps use consensus mechanisms such as Proof of Work (PoW) or Proof of Stake (PoS) to validate transactions and secure the network.
