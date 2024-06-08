@@ -70,3 +70,14 @@ Bitcoin transactions typically involve Unspent Transaction Outputs (UTXOs). Each
 
 4. **Pay-to-Pubkey (P2PK):** This type of transaction makes up 0.1% of all transactions. In a P2PK transaction, the bitcoins are sent directly to a public key. The recipient can spend the bitcoins by providing a signature that corresponds to the public key.
 
+## Recommended Readings 
+
+Here are some recommended readings to deepen your understanding of smart contracts, DApps, and alternative smart contract platforms:
+
+1. **Smart Contracts: 12 Use Cases for Business and Beyond:** This document by the Chamber of Digital Commerce explores various applications of smart contracts in different industries. It discusses how smart contracts can be used to automate business processes, improve transparency, and reduce the risk of fraud.
+
+2. **State of the DApps: 5 Observations from Usage Data:** This article by McCann analyzes usage data from decentralized applications (DApps) to draw insights about their performance, user behavior, and trends in the DApp market.
+
+3. **Ethereum Competitors: Guide to the Alternative Smart Contract Platforms:** This guide by Blockonomi provides an overview of blockchain platforms other than Ethereum that support smart contracts. It compares their features, advantages, and disadvantages to help readers understand the landscape of smart contract platforms.
+
+These readings will provide valuable insights and broaden your perspective on the practical applications and potential of blockchain technology.
