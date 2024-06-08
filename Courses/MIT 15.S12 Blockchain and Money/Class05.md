@@ -72,3 +72,19 @@ However, it's important to note that despite their name, smart contracts may not
 - **LISK (2016)**: LISK, with a market value of $360 million, is a blockchain application platform and cryptocurrency. It offers an all-round solution for Node.js and JavaScript developers to deploy their own blockchain applications. It uses side chains and allows developers to code in JavaScript.
 
 - **Stratis (2017)**: Stratis, valued at $150 million, is a powerful and flexible blockchain Development Platform designed for the needs of real-world financial services businesses and other organizations that want to develop, test and deploy applications on the blockchain.
+
+## Potential Use Cases of Smart Contracts
+
+Smart contracts have a wide range of potential applications across various industries. Here are some examples:
+
+- **Digital Identity**: Smart contracts can be used to create and manage digital identities, providing a secure and immutable record of a person's identity.
+
+- **Securities & Trade Finance**: In the financial industry, smart contracts can be used to automate the trading of securities and manage trade finance operations, reducing the need for intermediaries and increasing efficiency.
+
+- **Derivatives & Financial Data**: Smart contracts can be used to create and manage financial derivatives, and to securely store and handle financial data.
+
+- **Mortgages & Land Titles**: In the real estate industry, smart contracts can be used to automate the process of issuing mortgages and recording land titles, reducing the potential for fraud and making the process more efficient.
+
+- **Supply Chain & Auto Insurance**: In the supply chain industry, smart contracts can be used to track goods as they move through the supply chain, providing a transparent and immutable record of their journey. This technology can also be applied to auto insurance, automating claims processing and reducing fraud.
+
+- **Clinical Trials & Cancer Research**: In the healthcare industry, smart contracts can be used to manage clinical trials, ensuring that data is recorded accurately and transparently. This technology can also be used in cancer research, helping to manage and analyze large amounts of data.
