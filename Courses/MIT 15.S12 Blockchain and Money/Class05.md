@@ -106,3 +106,19 @@ Key characteristics of DApps include:
 - **Immutable**: Once data is recorded on the blockchain, it cannot be altered or deleted. This immutability provides a trustworthy and tamper-proof record of transactions.
 
 - **Consensus Mechanisms**: DApps use consensus mechanisms such as Proof of Work (PoW) or Proof of Stake (PoS) to validate transactions and secure the network.
+
+## Initial Coin Offerings (ICOs) - Crowdfunding for Investment and Consumption
+
+- **Proceeds used to build networks**: The funds raised through an ICO are typically used to develop the proposed blockchain network or digital platform. This can include hiring developers, marketing the platform, and covering other operational costs.
+
+- **Tokens usually issued prior to being functional**: In most ICOs, tokens are issued to investors before the underlying platform or network is fully developed or functional. These tokens often represent future access to a service or product that the network will offer.
+
+- **Development, while open, is largely centralized**: Although the code for the blockchain network or platform is usually open-source, the development process is often centralized with a core team of developers making the key decisions.
+
+- **Promoters allocate themselves 'premined' tokens**: In many ICOs, a portion of the tokens is 'premined', or created before the public sale, and allocated to the project's founders or developers. This can serve as a form of compensation or incentive for the team.
+
+- **Tokens are fungible and transferable**: Tokens issued in an ICO are usually fungible, meaning each token is identical to every other token; they are interchangeable like coins of the same denomination. These tokens can be transferred between users within the platform's ecosystem.
+
+- **Scarcity is fostered with preset 'Monetary policy'**: The total supply of tokens is often fixed or governed by a preset monetary policy. This creates scarcity, which can drive up the value of the tokens if the platform becomes popular or successful.
+
+- **Purchasers anticipate profits through appreciation**: Investors in an ICO typically anticipate that the value of the tokens they purchase will increase over time. This expected appreciation is often a key motivation for participation in an ICO.
