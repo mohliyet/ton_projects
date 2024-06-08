@@ -58,3 +58,17 @@ However, it's important to note that despite their name, smart contracts may not
 | Rewards | 12.5 BTC/block - Reward for mining a block | 2 ETH/block (is the value still the same) - Reward for mining a block |
 | Monetary Policy | Halves every 210,000 blocks (approximately every 4 years) - Decreasing supply over time | Fixed, but changes by updates (was 5/block: proposal to 2) - Supply determined by network updates |
 | Fees | Voluntary - Transaction fees are optional but incentivize faster confirmation | Needed and market based - Transaction fees (gas) are required and vary based on network congestion |
+
+## Smart Contract Platforms
+
+- **Ethereum (2015)**: With a market value of $22 billion in 2018, Ethereum is a decentralized, open-source blockchain that features smart contract functionality. It is the most actively used blockchain.
+
+- **EOS (2018)**: EOS had a market value of $5 billion and completed a $4.2 billion year-long Initial Coin Offering (ICO) in July 2018. EOS.IO is a blockchain protocol powered by the native cryptocurrency EOS. The protocol emulates most of the attributes of a real computer including hardware.
+
+- **NEO (2016)**: NEO, with a market value of $1.1 billion, is a blockchain platform and cryptocurrency designed to build a scalable network of decentralized applications. It uses a delegated Byzantine Fault Tolerance (dBFT) consensus mechanism and supports a wider range of programmable languages.
+
+- **Ethereum Classic (2016)**: Ethereum Classic, valued at $1.1 billion, is a decentralized platform that runs smart contracts. It is a continuation of the original Ethereum blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions. It was created from the DAO hard fork.
+
+- **LISK (2016)**: LISK, with a market value of $360 million, is a blockchain application platform and cryptocurrency. It offers an all-round solution for Node.js and JavaScript developers to deploy their own blockchain applications. It uses side chains and allows developers to code in JavaScript.
+
+- **Stratis (2017)**: Stratis, valued at $150 million, is a powerful and flexible blockchain Development Platform designed for the needs of real-world financial services businesses and other organizations that want to develop, test and deploy applications on the blockchain.
