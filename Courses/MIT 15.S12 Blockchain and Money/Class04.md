@@ -78,6 +78,12 @@ To prepare for the next class, please review the following materials. These read
 
 2. **State of the DApps: 5 Observations from Usage Data:** This article by McCann analyzes usage data from decentralized applications (DApps) to draw insights about their performance, user behavior, and trends in the DApp market.
 
-3. **Ethereum Competitors: Guide to the Alternative Smart Contract Platforms:** This guide by Blockonomi provides an overview of blockchain platforms other than Ethereum that support smart contracts. It compares their features, advantages, and disadvantages to help readers understand the landscape of smart contract platforms..
+3. **Ethereum Competitors: Guide to the Alternative Smart Contract Platforms:** This guide by Blockonomi provides an overview of blockchain platforms other than Ethereum that support smart contracts. It compares their features, advantages, and disadvantages to help readers understand the landscape of smart contract platforms.
 
-Please ensure you understand the key points from these materials before the next class, as they will form the basis of our discussion.
+Additionally, the following optional readings are available for those who wish to delve deeper:
+
+4. **Smart Contracts: Building Blocks for Digital Markets:** This paper by Nick Szabo, the person who coined the term "smart contracts", discusses the fundamental principles and potential applications of smart contracts.
+
+5. **A Next-Generation Smart Contract and Decentralized Application Platform:** This paper likely discusses the technical details and features of a specific platform for creating and managing smart contracts and decentralized applications.
+
+6. **Blockchain Technology as a Regulatory Technology:** This paper by De Filippi and Hassan explores the potential of blockchain technology as a tool for regulatory compliance and oversight.

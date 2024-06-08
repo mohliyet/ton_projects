@@ -1,10 +1,12 @@
 # Smart Contracts and DApps
-- Review of course projects
+
+<!-- - Review of course projects -->
+
 - Smart Contracts
 - Blockchain Design with Smart Contracts
 - DApps and Token Sales
-- Legal Issues of Smart Contracts 
+- Legal Issues of Smart Contracts
 
-## Review of Course Projects
+## Smart Contracts
 
-
+what are smart contracts -
