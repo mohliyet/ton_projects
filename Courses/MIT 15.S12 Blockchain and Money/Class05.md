@@ -122,3 +122,20 @@ Key characteristics of DApps include:
 - **Scarcity is fostered with preset 'Monetary policy'**: The total supply of tokens is often fixed or governed by a preset monetary policy. This creates scarcity, which can drive up the value of the tokens if the platform becomes popular or successful.
 
 - **Purchasers anticipate profits through appreciation**: Investors in an ICO typically anticipate that the value of the tokens they purchase will increase over time. This expected appreciation is often a key motivation for participation in an ICO.
+
+# Legal Issues - Contracts
+- **Lecturer**: Larry Lessig
+
+A contract is a legally binding agreement between two or more parties, which is enforceable by law. It involves a promise or performance given in exchange for a promise or performance. 
+
+There are four key aspects discussed in the context of contracts:
+
+1. **Performance for Performance**: This refers to the terms of the contract, which can be expressed or implied. Expressed terms are those that are explicitly stated and agreed upon by the parties involved. Implied terms, on the other hand, are not explicitly stated but are considered an integral part of the contract.
+
+2. **Implied Terms by a Legal System**: The state or legal system has an interest in your contract. It cares about the kind of contract, its effect, the terms, and taxation. These factors can influence the enforcement and interpretation of the contract.
+
+3. **Aim of the Contract**: The objective of a contract is not to eliminate risk but rather to allocate it. This means determining who will bear the risk if something goes wrong. Allocation matters whenever there is a system to process the breach of contract.
+
+4. **Clarity**: While clarity is often sought in contracts, obscurity can also have value. For instance, parties may choose to leave certain terms vague to allow for flexibility in the future.
+
+Understanding these aspects can help in the creation, interpretation, and enforcement of contracts. 
