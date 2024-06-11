@@ -1,18 +1,10 @@
 # Technical Challenges 
 1. [Framework for Comparing Costs and Trade-offs of Decentralization](#framework-for-comparing-costs-and-trade-offs-of-decentralization)
-    - An overview of the costs and trade-offs involved when choosing a decentralized system over a centralized one.
 
 2. [Challenges with Blockchain Technology](#challenges-with-blockchain-technology)
-    - A discussion on the various challenges that come with implementing and using blockchain technology.
-
 3. [Vitalik Buterin's Trilemma](#Vitalik-Buterin\'s-Trilemma)
-    - An explanation of the trilemma proposed by Vitalik Buterin, the co-founder of Ethereum, which states that it's impossible for a blockchain to simultaneously achieve scalability, security, and decentralization.
-
 4. [Possible Solutions for Scalability, Efficiency, Privacy and Interoperability](#possible-solutions-for-scalability-efficiency-privacy-and-interoperability)
-    - A look at potential solutions to some of the most pressing issues in blockchain technology, including scalability, efficiency, privacy, and interoperability.
-
 5. [Governance: The Most Challenging Aspect](#governance-the-most-challenging-aspect)
-    - An exploration of why governance is considered the most challenging aspect of blockchain technology and potential ways to address this issue.
 
 ## Framework for Comparing Costs and Trade-offs of Decentralization
 
@@ -76,3 +68,15 @@ One of the key challenges in blockchain technology is achieving high throughput 
 Another aspect of efficiency in blockchains is energy consumption, particularly for blockchains that use proof-of-work consensus mechanisms:
 
 - **Bitcoin**: The energy consumption of Bitcoin's blockchain is a subject of much debate. Estimates vary widely, but according to Digiconomist, Bitcoin's energy consumption is around 200 million kWh per day. This is equivalent to the electricity consumption of 8.8 million U.S. homes, or 0.33% of the world's total electricity consumption, which is roughly equivalent to the electricity consumption of Austria.
+
+## Possible Solutions for Scalability, Efficiency, Privacy and Interoperability
+
+To address the challenges of scalability, efficiency, privacy, and interoperability in blockchain technology, several solutions have been proposed:
+
+- **Side Chains**: Side chains are separate blockchains that run in parallel to the main blockchain. They allow for offloading transactions from the main chain, thereby increasing its scalability and efficiency. Side chains can have their own rules and protocols, which can be tailored to specific use cases.
+
+- **Sharding**: Sharding is a technique that involves splitting the blockchain into smaller pieces, known as shards. Each shard can process its own transactions and smart contracts, which can significantly increase the scalability of the blockchain. Sharding is one of the key features of Ethereum 2.0.
+
+- **Layer 2 and Payment Channels**: Layer 2 solutions are protocols built on top of the main blockchain (Layer 1) to improve its scalability and transaction speeds. Payment channels, which are part of Layer 2 solutions, allow participants to transact with each other directly without having to broadcast their transactions to the blockchain, thereby reducing the load on the network.
+
+- **Lightning Network**: The Lightning Network is a specific Layer 2 solution designed for Bitcoin. It creates a network of payment channels that allows for fast transactions between participating nodes. The Lightning Network is seen as a solution to Bitcoin's scalability problem, as it enables a large number of transactions to be processed quickly and efficiently.
