@@ -5,7 +5,7 @@
 2. [Challenges with Blockchain Technology](#challenges-with-blockchain-technology)
     - A discussion on the various challenges that come with implementing and using blockchain technology.
 
-3. [Buterin Trilemma](#buterin-trilemma)
+3. [Vitalik Buterin's Trilemma](#Vitalik-Buterin's-Trilemma)
     - An explanation of the trilemma proposed by Vitalik Buterin, the co-founder of Ethereum, which states that it's impossible for a blockchain to simultaneously achieve scalability, security, and decentralization.
 
 4. [Possible Solutions for Scalability, Efficiency, Privacy and Interoperability](#possible-solutions-for-scalability-efficiency-privacy-and-interoperability)
@@ -46,3 +46,18 @@ Blockchain technology, while revolutionary, comes with its own set of challenges
 - **Commercial Use Cases**: While there are many proposed use cases for blockchain technology, finding commercially viable applications that can benefit from the unique properties of blockchains is still a challenge.
 
 - **Public Policy and Legal Frameworks**: As a new and disruptive technology, blockchains often operate in a legal grey area. Developing public policy and legal frameworks that can accommodate blockchains while protecting users and maintaining market integrity is a complex task.
+
+## Vitalik Buterin's Trilemma
+
+Vitalik Buterin, the co-founder of Ethereum, proposed a trilemma that states it's impossible for a blockchain to simultaneously achieve all three of the following properties:
+
+1. **Scalability**: The ability of the system to process a large number of transactions quickly.
+
+2. **Decentralization**: The degree to which the system is not controlled by a single entity or authority. In the context of blockchains, this often refers to the number of nodes in the network.
+
+3. **Security**: The ability of the system to withstand attacks and remain secure.
+
+According to Buterin's trilemma, a blockchain can only achieve two of these properties at a time. For example, a blockchain can be scalable and secure, but not decentralized. Or it can be decentralized and secure, but not scalable.
+
+This trilemma presents a significant challenge for the development of blockchain technology, as all three properties are desirable for a robust and efficient system. Various solutions have been proposed to address this trilemma, such as sharding and layer 2 solutions, but each comes with its own trade-offs.
+- 
