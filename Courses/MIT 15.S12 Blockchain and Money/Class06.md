@@ -5,7 +5,7 @@
 2. [Challenges with Blockchain Technology](#challenges-with-blockchain-technology)
     - A discussion on the various challenges that come with implementing and using blockchain technology.
 
-3. [Vitalik Buterin's Trilemma](#Vitalik-Buterin's-Trilemma)
+3. [Vitalik Buterin's Trilemma](#Vitalik-Buterin\'s-Trilemma)
     - An explanation of the trilemma proposed by Vitalik Buterin, the co-founder of Ethereum, which states that it's impossible for a blockchain to simultaneously achieve scalability, security, and decentralization.
 
 4. [Possible Solutions for Scalability, Efficiency, Privacy and Interoperability](#possible-solutions-for-scalability-efficiency-privacy-and-interoperability)
