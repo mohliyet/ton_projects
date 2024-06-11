@@ -57,7 +57,6 @@ Vitalik Buterin, the co-founder of Ethereum, proposed a trilemma that states it'
 
 3. **Security**: The ability of the system to withstand attacks and remain secure.
 
-According to Buterin's trilemma, a blockchain can only achieve two of these properties at a time. For example, a blockchain can be scalable and secure, but not decentralized. Or it can be decentralized and secure, but not scalable.
-
+According to Buterin's trilemma, a blockchain can only achieve two of these properties at a time. For example, a blockchain can be scalable and secure, but not decentralized. Or it can be decentralized and secure, but not scalable. 
 This trilemma presents a significant challenge for the development of blockchain technology, as all three properties are desirable for a robust and efficient system. Various solutions have been proposed to address this trilemma, such as sharding and layer 2 solutions, but each comes with its own trade-offs.
 - 
