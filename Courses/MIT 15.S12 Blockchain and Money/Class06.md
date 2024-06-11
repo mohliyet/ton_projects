@@ -60,4 +60,19 @@ Vitalik Buterin, the co-founder of Ethereum, proposed a trilemma that states it'
 According to Buterin's trilemma, a blockchain can only achieve two of these properties at a time. For example, a blockchain can be scalable and secure, but not decentralized. Or it can be decentralized and secure, but not scalable. 
 
 This trilemma presents a significant challenge for the development of blockchain technology, as all three properties are desirable for a robust and efficient system. Various solutions have been proposed to address this trilemma, such as sharding and layer 2 solutions, but each comes with its own trade-offs.
-- 
+
+### Performance, Scalability, and Efficiency 
+
+One of the key challenges in blockchain technology is achieving high throughput and efficiency. Here's a comparison of transaction processing capabilities of different systems:
+
+- **Bitcoin**: Bitcoin's blockchain can handle approximately 7-10 transactions per second. This limitation is due to the block size limit and the average block creation time of 10 minutes.
+
+- **Ethereum**: Ethereum's blockchain can process around 20 transactions per second. Ethereum's block creation time is faster than Bitcoin's, at roughly 15 seconds, but it also has more complex transactions that can take longer to process.
+
+- **Visa**: As a centralized system, Visa can handle up to 24,000 transactions per second. This is due to its efficient, centralized infrastructure and the fact that it doesn't have to deal with the complexities of consensus algorithms and block creation.
+
+- **DTCC (Depository Trust & Clearing Corporation)**: DTCC, which provides clearing and settlement services for the financial markets, can handle up to 100,000 transactions per second. This high throughput is necessary to keep up with the high volume of transactions in the financial markets.
+
+Another aspect of efficiency in blockchains is energy consumption, particularly for blockchains that use proof-of-work consensus mechanisms:
+
+- **Bitcoin**: The energy consumption of Bitcoin's blockchain is a subject of much debate. Estimates vary widely, but according to Digiconomist, Bitcoin's energy consumption is around 200 million kWh per day. This is equivalent to the electricity consumption of 8.8 million U.S. homes, or 0.33% of the world's total electricity consumption, which is roughly equivalent to the electricity consumption of Austria.
