@@ -144,7 +144,7 @@ Understanding these aspects can help in the creation, interpretation, and enforc
 
 The following reading materials will provide valuable insights into various aspects of blockchain technology:
 
-1. **[Geneva Report Chapter 2 (pages 9 - 16)](Readings\The Geneva Report.pdf)**: Authored by Casey, Crane, Gensler, Johnson, and Narula, this chapter provides an in-depth analysis of blockchain technology and its potential impact on the financial industry.
+1. **[Geneva Report Chapter 2 (pages 9 - 16)](../../Readings/The%20Geneva%20Report.pdf)**: Authored by Casey, Crane, Gensler, Johnson, and Narula, this chapter provides an in-depth analysis of blockchain technology and its potential impact on the financial industry.
 
 2. **[On the Scalability of Blockchains](Readings/On the scalability of blockchains.pdf)**: This article discusses the challenges and potential solutions to scaling blockchain networks. It's a crucial read to understand the technical limitations of blockchains and how they can be overcome.
 
