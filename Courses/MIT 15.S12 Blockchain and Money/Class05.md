@@ -139,3 +139,21 @@ There are four key aspects discussed in the context of contracts:
 4. **Clarity**: While clarity is often sought in contracts, obscurity can also have value. For instance, parties may choose to leave certain terms vague to allow for flexibility in the future.
 
 Understanding these aspects can help in the creation, interpretation, and enforcement of contracts. 
+
+## Reading Assignment for Class06
+
+The following reading materials will provide valuable insights into various aspects of blockchain technology:
+
+1. **Geneva Report Chapter 2 (pages 9 - 16)**: Authored by Casey, Crane, Gensler, Johnson, and Narula, this chapter provides an in-depth analysis of blockchain technology and its potential impact on the financial industry.
+
+2. **On the Scalability of Blockchains**: This article discusses the challenges and potential solutions to scaling blockchain networks. It's a crucial read to understand the technical limitations of blockchains and how they can be overcome.
+
+3. **Transaction Speeds: How Do Cryptocurrencies Stack Up To Visa Or PayPal?**: Published on howmuch.net, this article compares the transaction speeds of various cryptocurrencies with traditional payment systems like Visa and PayPal.
+
+4. **Layer2 / The Lightning Network**: This resource from the Digital Currency Initiative provides an overview of Layer 2 solutions, specifically focusing on the Lightning Network. These solutions aim to increase the transaction capacity of blockchain networks.
+
+5. **Top 8 Privacy Coins**: This article from Invest In Blockchain explores the top privacy-focused cryptocurrencies. It's a great resource to understand the importance of privacy in blockchain transactions and the different approaches taken by various cryptocurrencies.
+
+6. **On Sharding Blockchains**: This article from the Ethereum Wiki provides an introduction to sharding, a technique for improving the scalability of blockchain networks.
+
+7. **ZkLedger: Privacy Auditing for Distributed Ledgers**: Authored by Narula, Vasquez, and Virza, this paper discusses ZkLedger, a framework that enables privacy-preserving auditing for distributed ledgers.
