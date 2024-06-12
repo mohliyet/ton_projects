@@ -186,5 +186,3 @@ You can access the PDF files by clicking on the respective titles:
 1. [Cryptocurrencies: Oversight of New Assets in the Digital Age](../../Readings/Cryptocurrencies%20-%20Oversite%20of%20the%20New%20Assets%20in%20the%20Digital%20Age.pdf) by Gensler
 2. [The Future of Money](../../Readings/The%20Future%20of%20Money.pdf) by Carney
 3. [Nobel-Winning Economics: Authorities Will Bring Down Hammer on Bitcoin](../../Readings/Nobel-winning%20Economics.pdf) by CNBC
-
-Please ensure to read these materials before our next session as they will form the basis for our discussion.
