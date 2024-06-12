@@ -178,3 +178,13 @@ Permissionless blockchains, on the other hand, allow anyone to participate, maki
 - **Native Currency**: Permissionless blockchains typically have a native currency, such as Bitcoin or Ether. This currency serves as an incentive for participants and can also be used for transactions within the network.
 
 - **Crypto-Economics**: The operation of permissionless blockchains is often described as crypto-economics. This term refers to the combination of cryptography, which secures the data, and economics, which incentivizes participants.
+
+## Recommended Readings for the Next Class
+
+You can access the PDF files by clicking on the respective titles:
+
+1. [Cryptocurrencies: Oversight of New Assets in the Digital Age](../../Readings/Cryptocurrencies%20-%20Oversite%20of%20the%20New%20Assets%20in%20the%20Digital%20Age.pdf) by Gensler
+2. [The Future of Money](../../Readings/The%20Future%20of%20Money.pdf) by Carney
+3. [Nobel-Winning Economics: Authorities Will Bring Down Hammer on Bitcoin](../../Readings/Nobel-winning%20Economics.pdf) by CNBC
+
+Please ensure to read these materials before our next session as they will form the basis for our discussion.
