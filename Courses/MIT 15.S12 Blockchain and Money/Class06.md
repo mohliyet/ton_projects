@@ -127,6 +127,12 @@ Blockchain interoperability refers to the ability of different blockchain system
 
 - **Cost of Trust**: The integration process can increase the 'cost of trust' in coordinating the transfer of assets and information into the blockchain or across different blockchain systems. This cost refers to the resources required to establish and maintain the trustworthiness of these transfers.
 
-- **Decentralized Mechanisms for Data Transfers**: A potential solution to this challenge could be the implementation of decentralized mechanisms, such as side chains or a 'layer 0'. Side chains are separate blockchain systems designed to work alongside a primary blockchain, allowing for more efficient data transfers. 'Layer 0' refers to the underlying network infrastructure that blockchain systems are built upon, which can be optimized to improve interoperability.
+- **Decentralized Mechanisms for Data Transfers**: A potential solution to the challenges of blockchain interoperability lies in the implementation of decentralized mechanisms. These mechanisms, such as side chains or a 'layer 0', can significantly enhance the efficiency and reliability of data transfers across different blockchain systems.
+
+    - **Side Chains**: Side chains are separate blockchain systems designed to work alongside a primary blockchain. They can handle transactions and computations, offloading work from the primary blockchain. This offloading not only improves the performance of the primary blockchain but also allows for more efficient and flexible data transfers between different blockchain systems.
+
+    - **Layer 0**: 'Layer 0' refers to the underlying network infrastructure that blockchain systems are built upon. By optimizing this 'Layer 0', we can improve the interoperability between different blockchain systems. This optimization could involve enhancing the network's speed, reliability, and security, all of which are crucial for efficient and secure data transfers.
+
+These decentralized mechanisms could pave the way for a more interconnected and interoperable blockchain ecosystem, unlocking new possibilities for blockchain technology.
 
 - **Need for Further Development**: There is a significant need for more work in this area to achieve seamless movement between and amongst new blockchain technology and existing technology. This development will involve both technical advancements and regulatory considerations to ensure secure and efficient interoperability.
