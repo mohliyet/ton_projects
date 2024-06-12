@@ -106,3 +106,15 @@ Delegated selection may be based on a tiered system of nodes:
 - **NEO**: NEO uses a delegated Byzantine Fault Tolerance (dBFT) protocol. In this system, NEO holders vote for professional node operators, who then validate transactions on the network.
 
 Despite these alternatives, many major permissionless blockchain applications still use PoW due to its proven security and decentralization properties.
+
+## Privacy and Security in Cryptocurrency Transactions
+
+Cryptocurrency transactions often involve a delicate balance between privacy and security. This balance is primarily due to the pseudonymous nature of addresses used in these transactions.
+
+- **Transparency Concerns**: Law enforcement agencies and regulatory bodies often advocate for more transparency to prevent illegal activities. On the other hand, financial institutions, some regulators, and certain users prefer less public transparency to protect user privacy and secure transactions.
+
+- **Privacy Coins and Mechanisms**: There are concerns about certain cryptocurrencies, known as privacy coins, and specific mechanisms that could potentially foster illicit activities. Examples of privacy coins include Dash, Monero, and Zcash. Mechanisms that enhance transaction privacy, such as mixers or tumblers, are also a subject of these concerns.
+
+- **Cybersecurity Challenges**: The custody, generation, and storage of private keys present significant cybersecurity challenges. There have been substantial losses in the cryptocurrency space due to hacks, mismanagement, and thefts.
+
+- **Potential Solutions**: Some of the potential solutions to these challenges involve advanced cryptographic techniques like zero-knowledge proofs and Pedersen commitments. Zero-knowledge proofs allow a party to prove that a statement is true without revealing the details of why that statement is true. Pedersen commitments, on the other hand, allow a party to commit to a piece of data (similar to a hash) but also combine commitments, providing additional flexibility.
