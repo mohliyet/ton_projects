@@ -93,3 +93,21 @@ The pseudonymous nature of cryptocurrency transactions, along with the emergence
 - **State Actors:** The potential use of cryptocurrencies by state actors for evasion of sanctions or to undermine financial systems adds a geopolitical dimension to the regulatory challenges.
 
 Addressing these public policy challenges requires a nuanced understanding of the technology, collaborative international regulatory efforts, and adaptive legal frameworks that can accommodate the evolving nature of crypto finance.
+
+## Financial Stability and the Impact of Crypto Finance
+
+The integration of crypto finance into the global financial system has prompted an initial assessment by the Financial Stability Board (FSB), highlighting several key points and concerns regarding the current and potential impact of cryptocurrencies and blockchain technology on financial stability.
+
+### Initial Assessment by the Financial Stability Board
+
+- **Current Scale of Crypto Finance:** The FSB's initial findings suggest that, in its current state, crypto finance represents a modest portion of the global capital markets. This observation indicates that, while growing, the market for cryptocurrencies and related financial products has not yet reached a scale where it poses systemic risks to global financial stability.
+
+- **Concerns in Capital Control Countries:** Countries that employ capital controls to manage their economy and currency stability have expressed concerns regarding the integration of cryptocurrencies. The decentralized and borderless nature of cryptocurrencies could potentially undermine these controls, posing challenges to maintaining financial stability in these regions.
+
+### Emerging Concerns and Opportunities on the Horizon
+
+- **Crypto Leverage:** The use of leverage in cryptocurrency trading and investment is an emerging concern. Leverage can amplify gains but also exacerbates losses, potentially leading to more volatile market conditions and increased risks for financial stability.
+
+- **Blockchain Market Infrastructure:** The adoption of blockchain technology in market infrastructure is seen as a double-edged sword. On one hand, it promises increased efficiency, transparency, and security in financial transactions. On the other hand, the transition to blockchain-based systems requires careful management to avoid introducing vulnerabilities into the financial system.
+
+- **Central Bank Digital Currency (CBDC):** The potential introduction of CBDCs by various countries represents a significant shift in the financial landscape. CBDCs could offer a more stable and regulated form of digital currency, compared to private cryptocurrencies, and could play a crucial role in enhancing financial stability. However, the design and implementation of CBDCs require careful consideration to ensure they fulfill their potential without undermining existing financial systems.
